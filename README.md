@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://t.bkit.co/w_683d7fc0b8aa2.gif" />
+
 <!--
 **atultiwari997721/atultiwari997721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
