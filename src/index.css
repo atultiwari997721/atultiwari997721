@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #050505;
+  color: #ffffff;
+}
+
+/* Hide default cursor to use custom fire cursor - user might want to keep default and just have trails, 
+   but 'Fire Cursor' implies replacement. Let's hide it for body but maybe show pointer on clickable.
+   For now, just pointer-events-none on the canvas so clicks go through.
+*/
+
+/* Custom cursor hiding on body if desired, but let's keep it visible for usability first, OR hide it. */
+/* body { cursor: none; } */ 
+
+@layer utilities {
+  .bg-300\% {
+    background-size: 300%;
+  }
+  .animate-gradient {
+    animation: gradient 8s ease infinite;
+  }
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
