@@ -3,33 +3,49 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Coder;Building+Stunning+3D+Web+Apps" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=500&lines=Visionary+Full+Stack+Developer;Crafting+Immersive+3D+Experiences;Building+The+Future+of+Web" alt="Typing SVG" />
+</div>
+
+<br />
+
+<!-- Latest Project Showcase -->
+<div align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center" width="600">
+        <h3>🔥 Featured Work: 3D Portfolio</h3>
+        <p>A stunning, immersive portfolio featuring a <b>interactive "Fire" cursor</b> and <b>3D floating geometry</b>.</p>
+        <a href="https://github.com/atultiwari997721">
+           <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- 3D Contribution Snake -->
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=atultiwari997721&color_snake=00F0FF&color_dots=161B22&color_empty=161B22&color_dot_border=161B22&color_dot=21262d" alt="snake contribution" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- 3D Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atultiwari997721&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy" />
-  </a>
-</div>
-
-<hr color="#00F0FF" />
-
-<div align="center">
   <h2>🚀 About Me</h2>
-  <p align="center">
-    I am a passionate Full Stack Developer with a knack for creating <b>immersive 3D web experiences</b>. 
-    I specialize in building high-performance applications that look as good as they feel.
+  <p align="center" style="max-width: 600px;">
+    I don't just write code; I simulate reality in the browser. <br/>
+    Specializing in <b>React, Three.js, and High-Performance Animations</b>, I turn static pages into living, breathing digital worlds.
   </p>
 </div>
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ The Arsenal (Tech Stack)</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,nodejs,express,mongodb,firebase,ts,js,html,css,git,github,vscode,figma&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,threejs,nextjs,tailwind,nodejs,express,mongodb,ts,js,html,css,git,github,vscode,figma&theme=dark" />
     </a>
   </p>
 </div>
@@ -37,25 +53,25 @@
 <br />
 
 <div align="center">
-  <h2>🏆 Experience</h2>
+  <h2>🏆 Professional Journey</h2>
   <table>
     <thead>
       <tr>
-        <th align="left">🏆 Role</th>
-        <th align="left">🏢 Organization</th>
-        <th align="left">📅 Duration</th>
+        <th align="center">Rank</th>
+        <th align="center">Faction</th>
+        <th align="center">Timeline</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>Full Stack Developer</b></td>
-        <td>Abecsa India</td>
-        <td>2024 - Present</td>
+        <td align="center"><b>Lead Full Stack Developer</b></td>
+        <td align="center">Abecsa India</td>
+        <td align="center">2024 - Present</td>
       </tr>
       <tr>
-        <td><b>Web Developer</b></td>
-        <td>Freelancer</td>
-        <td>2023 - 2024</td>
+        <td align="center"><b>Freelance Creative Dev</b></td>
+        <td align="center">Global</td>
+        <td align="center">2023 - 2024</td>
       </tr>
     </tbody>
   </table>
@@ -64,7 +80,7 @@
 <br />
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 Power Levels</h2>
   
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=atultiwari997721&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=FFF" height="150" alt="stats graph" />
@@ -73,21 +89,24 @@
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atultiwari997721&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=00F0FF&sideLabels=00F0FF" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atultiwari997721&theme=radical&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FF4500&sideLabels=FF4500" alt="streak stats" />
 
   <br />
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=atultiwari997721&style=flat-square&color=00F0FF&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=atultiwari997721&style=flat-square&color=00F0FF&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <hr color="#00F0FF" />
 
 <div align="center">
-  <h3>🤝 Connect With Me</h3>
+  <h3>🤝 Join the Network</h3>
   <p align="center">
     <a href="https://github.com/atultiwari997721" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:contact@atultiwari.dev">
+      <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
