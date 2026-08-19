@@ -103,9 +103,7 @@ Python • NumPy • Pandas • Scikit-Learn • LangChain • HuggingFace • O
 
 # 📊 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atultiwari997721&theme=tokyo-night"/>
-</p>
+
 
 ---
 
