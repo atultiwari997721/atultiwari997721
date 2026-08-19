@@ -99,21 +99,7 @@ Python • NumPy • Pandas • Scikit-Learn • LangChain • HuggingFace • O
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atultiwari997721&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-# 📊 Contribution Graph
-
-
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github-readme-snake.vercel.app/api?username=atultiwari997721&color_snake=00F5FF"/>
-</p>
-
----
 
 # 🏆 Achievements
 
