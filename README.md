@@ -1,393 +1,529 @@
 <div align="center">
 
-# Atul Tiwari
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ATUL%20TIWARI&fontAlign=50&fontAlignY=40&fontSize=58&fontColor=00F7FF&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20FULL%20STACK%20DEVELOPER&descAlign=50&descAlignY=62&animation=twinkling&color=0D1117"/>
 
-### AI/ML Engineer • Full Stack Developer • Generative AI Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=BOOTING+ATUL.DEV...;Artificial+Intelligence+%2B+Software+Engineering;Generative+AI+%2B+Full+Stack;Building+Systems%2C+Not+Just+Projects.;SYSTEM+STATUS%3A+ONLINE+%E2%9C%93" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development;Generative+AI+%7C+LLMs+%7C+AI+Agents;React+%7C+Node.js+%7C+Next.js;Python+%7C+PyTorch+%7C+Computer+Vision;Building+Products%2C+Not+Just+Projects." alt="Typing SVG" />
-
-<br/>
+<br>
 
 <a href="https://github.com/atultiwari997721">
-<img src="https://img.shields.io/github/followers/atultiwari997721?label=Followers&style=for-the-badge&logo=github&labelColor=0D1117&color=00F7FF"/>
+<img src="https://komarev.com/ghpvc/?username=atultiwari997721&style=for-the-badge&color=00F7FF&label=VISITORS"/>
 </a>
-<a href="https://github.com/atultiwari997721">
-<img src="https://komarev.com/ghpvc/?username=atultiwari997721&style=for-the-badge&label=PROFILE+VIEWS&color=00F7FF"/>
+&nbsp;
+<a href="https://github.com/atultiwari997721?tab=followers">
+<img src="https://img.shields.io/github/followers/atultiwari997721?style=for-the-badge&logo=github&label=NETWORK&color=111827"/>
 </a>
+&nbsp;
 <a href="mailto:contact@atultiwari.dev">
-<img src="https://img.shields.io/badge/Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OPEN_FOR_OPPORTUNITIES-00F7FF?style=for-the-badge&logo=rocket&logoColor=black"/>
 </a>
+
+<br><br>
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                         ATUL.DEV // CORE                            │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  ROLE        AI/ML ENGINEER • FULL STACK DEVELOPER                  │
+│  FOCUS       GEN AI • LLMs • COMPUTER VISION • SYSTEMS              │
+│  LOCATION    INDORE, INDIA                                         │
+│  EDUCATION   B.TECH — AI & ML • IPS ACADEMY                        │
+│  STATUS      ██████████████████████████████  ONLINE                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## `/ about`
+# `01 // SYSTEM.IDENTITY`
+
+<div align="center">
+
+### I DON'T JUST WRITE CODE.
+
+# I BUILD DIGITAL SYSTEMS.
+
+</div>
 
 ```text
-I'm Atul Tiwari — an Artificial Intelligence & Machine Learning student
-and Full Stack Developer focused on building intelligent, scalable,
-and practical software systems.
+At the intersection of
 
-My interests sit at the intersection of:
-
-        AI / ML  ×  Generative AI  ×  Full Stack Engineering
-
-I enjoy turning ideas into working products — from AI-powered systems
-and intelligent assistants to full-stack platforms and interactive
-web experiences.
-
-Currently exploring:
-→ LLM applications & AI Agents
-→ Machine Learning & Deep Learning
-→ Computer Vision
-→ Modern Full Stack Architecture
-→ System Design
-→ Production-oriented AI applications
+                 AI
+                  │
+                  │
+        ┌─────────┼─────────┐
+        │         │         │
+        ▼         ▼         ▼
+     MODELS     SYSTEMS    PRODUCTS
+        │         │         │
+        └─────────┼─────────┘
+                  │
+                  ▼
+          REAL-WORLD SOFTWARE
 ```
 
-🎓 **B.Tech — Artificial Intelligence & Machine Learning**
-**IPS Academy, Indore**
+I'm **Atul Tiwari**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **IPS Academy, Indore**.
 
-💡 Interested in **AI/ML Engineering, Generative AI, Full Stack Development, and Software Engineering**
+My work lives at the intersection of:
 
-🚀 Currently building, experimenting, learning, and contributing across AI and web technologies.
+`Artificial Intelligence` × `Software Engineering` × `Product Development`
+
+I enjoy taking an idea from:
+
+**concept → architecture → model → API → interface → deployment**
+
+and turning it into something people can actually use.
 
 ---
 
-## `/ engineering_stack`
+<details>
+<summary><b>▸ DECRYPT PERSONAL PROFILE</b></summary>
 
-### Languages
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript" />
-</p>
+```yaml
+identity:
+  name: Atul Tiwari
+  role:
+    - AI/ML Developer
+    - Full Stack Developer
+    - Generative AI Enthusiast
 
-### Frontend Engineering
+education:
+  degree: B.Tech
+  specialization: Artificial Intelligence & Machine Learning
+  institute: IPS Academy, Indore
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs" />
-</p>
+engineering:
+  frontend: React, Next.js, Tailwind, Three.js
+  backend: Node.js, Express
+  databases: MongoDB, MySQL
+  languages: Python, C++, C, JavaScript, TypeScript, Java
 
-### Backend & APIs
+ai:
+  machine_learning:
+    - Scikit-Learn
+    - TensorFlow
+    - PyTorch
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+  generative_ai:
+    - LLM Applications
+    - LangChain
+    - Hugging Face
+    - AI Agents
 
-### Databases
+  vision:
+    - OpenCV
+    - Computer Vision
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+mindset:
+  build: true
+  experiment: true
+  learn: true
+  ship: true
 
-### AI / Machine Learning
+directive:
+  "Build things that are useful."
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+</details>
+
+---
+
+# `02 // NEURAL CORE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=1000&color=7EE787&center=true&vCenter=true&width=850&lines=%5BNEURAL+CORE+INITIALIZED%5D;%5BML+PIPELINE+ONLINE%5D;%5BLLM+STACK+CONNECTED%5D;%5BSYSTEM+ARCHITECTURE+READY%5D" />
+
+</div>
 
 ```text
-Python
-NumPy • Pandas • Scikit-Learn
-PyTorch • TensorFlow
-OpenCV
-LangChain
-Hugging Face
-LLM Applications
-Computer Vision
-AI Agents
+                   ┌───────────────────┐
+                   │       INPUT       │
+                   │ Ideas / Problems  │
+                   └─────────┬─────────┘
+                             │
+                             ▼
+                   ┌───────────────────┐
+                   │    INTELLIGENCE   │
+                   │                   │
+                   │ ML • DL • LLMs    │
+                   │ Vision • Agents   │
+                   └─────────┬─────────┘
+                             │
+               ┌─────────────┴─────────────┐
+               │                           │
+               ▼                           ▼
+      ┌──────────────────┐       ┌──────────────────┐
+      │    APPLICATION   │       │     SERVICES     │
+      │ React / Next.js  │◄─────►│ Node / APIs      │
+      └────────┬─────────┘       └────────┬─────────┘
+               │                          │
+               └────────────┬─────────────┘
+                            ▼
+                   ┌───────────────────┐
+                   │      DATA         │
+                   │ MongoDB • MySQL   │
+                   └─────────┬─────────┘
+                             │
+                             ▼
+                   ┌───────────────────┐
+                   │      PRODUCT      │
+                   │   SHIP • SCALE    │
+                   └───────────────────┘
 ```
 
-### Developer Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
-</p>
+# `03 // TECHNOLOGY MATRIX`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript&perline=6" />
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&perline=6" />
+
+### `BACKEND + DATA`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6" />
+
+### `AI / ML`
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6" />
+
+<br>
+
+`NumPy` `Pandas` `Scikit-Learn` `OpenCV` `LangChain` `Hugging Face`
+
+### `ENGINEERING`
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker&perline=6" />
+
+</div>
 
 ---
 
-## `/ what_i_build`
+# `04 // LIVE SYSTEM MONITOR`
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Intelligent Systems
-
-AI-powered applications designed around real-world use cases.
-
-**Focus**
-
-* Machine Learning
-* Deep Learning
-* LLM Applications
-* AI Agents
-* Computer Vision
-* Intelligent Automation
-
-</td>
-
-<td width="50%">
-
-### 🌐 Full Stack Systems
-
-Modern web applications from interface to backend architecture.
-
-**Focus**
-
-* React / Next.js
-* Node.js / Express
-* REST APIs
-* MongoDB / MySQL
-* Authentication
-* Scalable Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Product Engineering
-
-Turning concepts into usable products rather than isolated demos.
-
-**Focus**
-
-* System Design
-* API Design
-* Performance
-* UX
-* Deployment
-* Developer Experience
-
-</td>
-
-<td width="50%">
-
-### 🧪 Continuous Experimentation
-
-Exploring emerging technologies through practical implementations.
-
-**Currently Exploring**
-
-* LangChain
-* Hugging Face
-* PyTorch
-* Three.js
-* Next.js
-* AI Agents
-
-</td>
-</tr>
-</table>
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                       ATUL // SYSTEM MONITOR                      ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  AI ENGINE             ████████████████████████░░   ACTIVE        ║
+║  FULL STACK            ██████████████████████░░░░   ACTIVE        ║
+║  GEN AI                ███████████████████░░░░░░░   RESEARCH      ║
+║  COMPUTER VISION       ████████████████░░░░░░░░░   EXPLORING     ║
+║  SYSTEM DESIGN         █████████████░░░░░░░░░░░░   LEARNING      ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  CPU      ███████████████████████░░   BUILDING                    ║
+║  MEMORY   ███████████████████░░░░░   LEARNING                     ║
+║  GPU      ██████████████████████░░░   EXPERIMENTING               ║
+║  MODELS   █████████████████████░░░   TRAINING                     ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-# `/ featured_projects`
+# `05 // PROJECT UNIVERSE`
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🛒 S-Mart
+## SELECT A SYSTEM
 
-**MERN E-Commerce Platform**
+`[01] S-MART`　`[02] GOMTI AI`　`[03] HACK2HIRE`　`[04] 3D PORTFOLIO`
 
-A complete full-stack commerce application designed around modern frontend and backend development.
+</div>
 
-**Stack**
+---
+
+<details>
+<summary><b>01 // 🛒 S-MART — COMMERCE ENGINE</b></summary>
+
+<br>
+
+```text
+TYPE        Full Stack Application
+ARCHITECTURE MERN
+DOMAIN      E-Commerce
+STATUS      BUILT
+```
+
+A complete e-commerce platform focused on modern frontend architecture, backend APIs, persistent data, and real-world application workflows.
+
+**Core stack**
 
 `React` `Node.js` `Express` `MongoDB`
 
-</td>
+</details>
 
-<td width="50%">
+<br>
 
-### 🤖 Gomti AI
+<details>
+<summary><b>02 // 🤖 GOMTI AI — INTELLIGENCE ENGINE</b></summary>
 
-**AI Chat Assistant**
+<br>
 
-An AI-powered conversational application exploring the integration of LLM-based systems into practical software products.
+```text
+TYPE        AI Application
+DOMAIN      Generative AI
+STATUS      EXPERIMENTAL
+```
 
-**Stack**
+An AI-powered conversational system exploring how LLM-based intelligence can be integrated into useful software experiences.
 
-`Python` `LLM` `AI`
+**Core stack**
 
-</td>
-</tr>
+`Python` `LLM` `Generative AI`
 
-<tr>
-<td width="50%">
+</details>
 
-### 💼 Hack2Hire
+<br>
 
-**Hiring Platform**
+<details>
+<summary><b>03 // 💼 HACK2HIRE — TALENT SYSTEM</b></summary>
 
-A web platform focused on connecting developers and hiring workflows through an intuitive application experience.
+<br>
 
-**Stack**
+```text
+TYPE        Web Platform
+DOMAIN      Hiring / Talent
+STATUS      BUILT
+```
+
+A hiring-oriented web application designed around a clean user experience and modern frontend development.
+
+**Core stack**
 
 `React` `JavaScript`
 
-</td>
+</details>
 
-<td width="50%">
+<br>
 
-### 🌌 3D Portfolio
+<details>
+<summary><b>04 // 🌌 3D PORTFOLIO — IMMERSIVE INTERFACE</b></summary>
 
-**Interactive Web Experience**
+<br>
 
-A browser-based portfolio experiment combining modern frontend development with immersive 3D interfaces.
+```text
+TYPE        Interactive Web Experience
+DOMAIN      Creative Engineering
+STATUS      BUILT
+```
 
-**Stack**
+An experimental portfolio experience combining frontend engineering with interactive 3D visuals.
+
+**Core stack**
 
 `Three.js` `React` `JavaScript`
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## `/ github_activity`
+# `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atultiwari997721&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atultiwari997721&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=E6EDF3&rank_icon=github" height="185"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultiwari997721&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultiwari997721&layout=donut&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E6EDF3" height="185"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=atultiwari997721&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-## `/ contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atultiwari997721&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=atultiwari997721&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 </div>
 
 ---
 
-## `/ currently`
+# `07 // CONTRIBUTION MATRIX`
 
-```yaml
-learning:
-  - LangChain
-  - Hugging Face
-  - PyTorch
-  - Three.js
-  - Next.js
-  - System Design
+<div align="center">
 
-exploring:
-  - Generative AI
-  - Large Language Models
-  - AI Agents
-  - Computer Vision
-  - Deep Learning
-  - Scalable Web Architecture
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atultiwari997721&theme=react-dark&hide_border=true&area=true&custom_title=ATUL%20TIWARI%20%E2%80%94%20DEVELOPMENT%20ACTIVITY" width="98%"/>
 
-building:
-  - AI-powered applications
-  - Full-stack products
-  - Experimental developer tools
-  - Open-source projects
-```
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake"/>
+
+</div>
 
 ---
 
-## `/ engineering_philosophy`
+# `08 // CURRENT OPERATIONS`
 
-> **Learn deeply. Build relentlessly. Ship intelligently.**
-
-I believe the best way to learn technology is to use it to solve real problems.
-
-Instead of focusing only on frameworks or tutorials, I try to understand:
-
-**Why it works → How it works → How to build it → How to scale it**
-
----
-
-## `/ beyond_the_code`
+<div align="center">
 
 ```text
-AI
-████████████████████████░░  90%
-
-Full Stack
-██████████████████████░░░░  85%
-
-Problem Solving
-███████████████████████░░░  88%
-
-System Design
-████████████████░░░░░░░░░  65%
-
-Learning
-██████████████████████████  ∞
+┌─────────────────────────────────────────────┐
+│              CURRENT OPERATIONS              │
+├─────────────────────────────────────────────┤
+│                                             │
+│  [ACTIVE]   Generative AI                  │
+│  [ACTIVE]   Full Stack Engineering         │
+│  [ACTIVE]   Machine Learning               │
+│  [ACTIVE]   AI Agents                      │
+│  [ACTIVE]   Computer Vision                │
+│                                             │
+│  [LEARNING] LangChain                      │
+│  [LEARNING] Hugging Face                   │
+│  [LEARNING] PyTorch                        │
+│  [LEARNING] Next.js                        │
+│  [LEARNING] Three.js                       │
+│  [LEARNING] System Design                  │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
-## `/ roadmap`
+# `09 // ENGINEERING MINDSET`
 
-### 2026 → Building the Foundation
+<div align="center">
 
 ```text
-✓ Strengthen Full Stack Engineering
-✓ Build AI-powered products
-✓ Explore Generative AI
-✓ Deepen Machine Learning fundamentals
-→ Advanced Deep Learning
-→ System Design
-→ Production AI
-→ Open Source Contributions
-→ AI/ML Internship
+                     ┌───────────────┐
+                     │    PROBLEM    │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │   UNDERSTAND  │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    DESIGN     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │     BUILD     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │     TEST      │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │      SHIP     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    REPEAT     │
+                     └───────────────┘
+```
+
+> **Code is the implementation.
+> Engineering is the thinking behind it.**
+
+</div>
+
+---
+
+# `10 // ROADMAP`
+
+```text
+2026
+ │
+ ├──► FULL STACK
+ │     ├── React / Next.js
+ │     ├── Backend Architecture
+ │     └── System Design
+ │
+ ├──► AI / ML
+ │     ├── Deep Learning
+ │     ├── Computer Vision
+ │     └── Model Development
+ │
+ ├──► GENERATIVE AI
+ │     ├── LLM Applications
+ │     ├── AI Agents
+ │     └── RAG / Tool Use
+ │
+ ├──► ENGINEERING
+ │     ├── Open Source
+ │     ├── Production Systems
+ │     └── Scalable Architecture
+ │
+ └──► TARGET
+       └── AI/ML SOFTWARE ENGINEERING INTERNSHIP
 ```
 
 ---
 
-## `/ connect`
+# `11 // EXPERIENCE LOADING...`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&width=850&lines=Learning...;Building...;Breaking...;Debugging...;Rebuilding...;Deploying...;Improving...;Repeat." />
+
+</div>
+
+---
+
+# `12 // ACCESS POINTS`
 
 <div align="center">
 
 <a href="https://github.com/atultiwari997721">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:contact@atultiwari.dev">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### Building at the intersection of AI × Software × Product
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│       BUILD. BREAK. LEARN. REBUILD. SHIP.           │
+│                                                      │
+│       AI × SOFTWARE × PRODUCT                        │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
 
-**AI/ML • Full Stack • Generative AI • Open Source**
+### `SYSTEM STATUS: ALWAYS LEARNING`
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0D1117&animation=twinkling"/>
 
 </div>
